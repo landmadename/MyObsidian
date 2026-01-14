@@ -13,16 +13,18 @@
             "state": {
               "type": "kanban",
               "state": {
-                "file": "具身智能/未命名看板.md",
+                "file": "工作规划.md",
                 "kanbanViewState": {
                   "kanban-plugin": "board",
                   "list-collapse": [
+                    false,
+                    false,
                     false
                   ]
                 }
               },
               "icon": "lucide-trello",
-              "title": "未命名看板"
+              "title": "工作规划"
             }
           }
         ]
@@ -98,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "具身智能/未命名看板.md",
+                "file": "工作规划.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +110,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "未命名看板 的反向链接列表"
+              "title": "工作规划 的反向链接列表"
             }
           },
           {
@@ -117,12 +119,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "具身智能/未命名看板.md",
+                "file": "工作规划.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "未命名看板 的出链列表"
+              "title": "工作规划 的出链列表"
             }
           },
           {
@@ -160,13 +162,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "具身智能/未命名看板.md",
+                "file": "工作规划.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "未命名看板 的大纲"
+              "title": "工作规划 的大纲"
             }
           },
           {
@@ -204,8 +206,8 @@
   },
   "active": "69e18c3e59d6bcd0",
   "lastOpenFiles": [
-    "具身智能/具身智能-mindmap.md",
     "具身智能/未命名看板.md",
+    "具身智能/具身智能-mindmap.md",
     "具身智能/发展的时间线.md",
     "具身智能/什么是“人形机器人”.md",
     "具身智能/人形机器人为什么是现在爆发.md",
