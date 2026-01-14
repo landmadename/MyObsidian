@@ -8,41 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "04eac907fa600520",
+            "id": "69e18c3e59d6bcd0",
             "type": "leaf",
             "state": {
               "type": "kanban",
               "state": {
-                "file": "工作规划.md",
+                "file": "具身智能/未命名看板.md",
                 "kanbanViewState": {
                   "kanban-plugin": "board",
                   "list-collapse": [
-                    false,
-                    false,
                     false
                   ]
                 }
               },
               "icon": "lucide-trello",
-              "title": "工作规划"
-            }
-          },
-          {
-            "id": "d4fac14513f3276f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "电力漫谈.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "电力漫谈"
+              "title": "未命名看板"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -115,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "电力漫谈.md",
+                "file": "具身智能/未命名看板.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +108,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "电力漫谈 的反向链接列表"
+              "title": "未命名看板 的反向链接列表"
             }
           },
           {
@@ -134,12 +117,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "电力漫谈.md",
+                "file": "具身智能/未命名看板.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "电力漫谈 的出链列表"
+              "title": "未命名看板 的出链列表"
             }
           },
           {
@@ -177,13 +160,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "电力漫谈.md",
+                "file": "具身智能/未命名看板.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "电力漫谈 的大纲"
+              "title": "未命名看板 的大纲"
             }
           },
           {
@@ -219,12 +202,33 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d4fac14513f3276f",
+  "active": "69e18c3e59d6bcd0",
   "lastOpenFiles": [
+    "具身智能/具身智能-mindmap.md",
+    "具身智能/未命名看板.md",
+    "具身智能/发展的时间线.md",
+    "具身智能/什么是“人形机器人”.md",
+    "具身智能/人形机器人为什么是现在爆发.md",
+    "具身智能/市场产品分析.md",
+    "发展的时间线.md",
+    "人形机器人为什么是现在爆发.md",
+    "具身智能/驱动硬件详解.md",
+    "具身智能/如何入门.md",
+    "具身智能/感知系统详解.md",
+    "具身智能/参考资料.md",
+    "具身智能/attachments/Pasted image 20260113193120.png",
+    "具身智能/attachments/Pasted image 20260113193111.png",
+    "具身智能/attachments/Pasted image 20260113193058.png",
+    "具身智能/attachments",
     "工作规划.md",
-    "电力漫谈.md",
-    "--暂存箱.md",
     "AI相关.md",
+    "具身智能",
+    "--暂存箱.md",
+    "未命名思维导图.md",
+    "attachments/Paste image 1768303021291image.png",
+    "未命名.canvas",
+    "AI相关-mindmap.md",
+    "电力漫谈.md",
     "attachments/Pasted image 20260113104920.png",
     "attachments/Pasted image 20260113104851.png",
     "attachments/Pasted image 20260113104820.png",
@@ -235,12 +239,9 @@
     "Pasted image 20260113104317.png",
     "Pasted image 20260113104301.png",
     "未命名看板 1.md",
-    "Pasted image 20260112093636.png",
     "投资s.md",
-    "Pasted image 20260112092031.png",
     "2026-01-12.md",
     "未命名.base",
-    "未命名.canvas",
     "创建链接.md",
     "欢迎.md"
   ]
