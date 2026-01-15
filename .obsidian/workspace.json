@@ -11,20 +11,14 @@
             "id": "69e18c3e59d6bcd0",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "工作规划.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "AI相关.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "工作规划"
+              "icon": "lucide-file",
+              "title": "AI相关"
             }
           }
         ]
@@ -100,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "工作规划.md",
+                "file": "AI相关.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "工作规划 的反向链接列表"
+              "title": "AI相关 的反向链接列表"
             }
           },
           {
@@ -119,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "工作规划.md",
+                "file": "AI相关.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "工作规划 的出链列表"
+              "title": "AI相关 的出链列表"
             }
           },
           {
@@ -162,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "工作规划.md",
+                "file": "AI相关.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "工作规划 的大纲"
+              "title": "AI相关 的大纲"
             }
           },
           {
@@ -206,6 +200,7 @@
   },
   "active": "69e18c3e59d6bcd0",
   "lastOpenFiles": [
+    "工作规划.md",
     "attachments/Pasted image 20260114164732.png",
     "attachments/Pasted image 20260114163354.png",
     "attachments/Pasted image 20260114131910.png",
@@ -227,7 +222,6 @@
     "具身智能/attachments/Pasted image 20260113193111.png",
     "具身智能/attachments/Pasted image 20260113193058.png",
     "具身智能/attachments",
-    "工作规划.md",
     "AI相关.md",
     "具身智能",
     "--暂存箱.md",
@@ -237,7 +231,6 @@
     "AI相关-mindmap.md",
     "电力漫谈.md",
     "attachments/Pasted image 20260113104920.png",
-    "attachments/Pasted image 20260113104851.png",
     "attachments",
     "images",
     "新建文件夹",
