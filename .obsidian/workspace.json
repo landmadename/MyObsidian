@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "AI相关"
             }
-          },
-          {
-            "id": "6ca4b4bd326f16f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "请你详细说一下，你的通用分析框架是什么.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "请你详细说一下，你的通用分析框架是什么"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "请你详细说一下，你的通用分析框架是什么.md",
+                "file": "AI相关.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "请你详细说一下，你的通用分析框架是什么 的反向链接列表"
+              "title": "AI相关 的反向链接列表"
             }
           },
           {
@@ -128,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "请你详细说一下，你的通用分析框架是什么.md",
+                "file": "AI相关.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "请你详细说一下，你的通用分析框架是什么 的出链列表"
+              "title": "AI相关 的出链列表"
             }
           },
           {
@@ -171,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "请你详细说一下，你的通用分析框架是什么.md",
+                "file": "AI相关.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "请你详细说一下，你的通用分析框架是什么 的大纲"
+              "title": "AI相关 的大纲"
             }
           },
           {
@@ -213,8 +198,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6ca4b4bd326f16f2",
+  "active": "69e18c3e59d6bcd0",
   "lastOpenFiles": [
+    "--暂存箱.md",
     "AI相关.md",
     "请你详细说一下，你的通用分析框架是什么.md",
     "工作规划.md",
@@ -240,7 +226,6 @@
     "具身智能/attachments/Pasted image 20260113193058.png",
     "具身智能/attachments",
     "具身智能",
-    "--暂存箱.md",
     "未命名思维导图.md",
     "attachments/Paste image 1768303021291image.png",
     "未命名.canvas",
