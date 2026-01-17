@@ -11,20 +11,14 @@
             "id": "69e18c3e59d6bcd0",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "工作规划.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "AI相关.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "工作规划"
+              "icon": "lucide-file",
+              "title": "AI相关"
             }
           }
         ]
@@ -206,10 +200,10 @@
   },
   "active": "69e18c3e59d6bcd0",
   "lastOpenFiles": [
+    "工作规划.md",
     "attachments/Pasted image 20260114131910.png",
     "attachments/Pasted image 20260114163354.png",
     "attachments/Pasted image 20260114164732.png",
-    "工作规划.md",
     "--暂存箱/--暂存箱.md",
     "--暂存箱",
     "--暂存箱/请你详细说一下，你的通用分析框架是什么.md",
