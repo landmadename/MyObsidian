@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "df04100dd17213fb",
+        "id": "721c60087a3a9a3f",
         "type": "tabs",
         "children": [
           {
-            "id": "69e18c3e59d6bcd0",
+            "id": "e512a56fd8da2c14",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -174,14 +174,23 @@
               "icon": "spreadsheet",
               "title": "Advanced Tables"
             }
+          },
+          {
+            "id": "505f6479cdff4e68",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 286.5,
-    "collapsed": true
+    "width": 286.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,8 +207,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "69e18c3e59d6bcd0",
+  "active": "e512a56fd8da2c14",
   "lastOpenFiles": [
+    "assets/AI相关/file-20260118102904828.png",
+    "assets/AI相关/file-20260118102837002.png",
+    "assets/AI相关/file-20260118102811910.png",
+    "AI相关.md",
+    "assets/AI相关",
+    "assets",
     "工作规划.md",
     "attachments/Pasted image 20260114131910.png",
     "attachments/Pasted image 20260114163354.png",
@@ -207,7 +222,6 @@
     "--暂存箱/--暂存箱.md",
     "--暂存箱",
     "--暂存箱/请你详细说一下，你的通用分析框架是什么.md",
-    "AI相关.md",
     "attachments/Pasted image 20260114131902.png",
     "attachments/Pasted image 20260114105858.png",
     "具身智能/未命名看板.md",
@@ -228,11 +242,9 @@
     "具身智能/attachments",
     "具身智能",
     "未命名思维导图.md",
-    "attachments/Paste image 1768303021291image.png",
     "未命名.canvas",
     "AI相关-mindmap.md",
     "电力漫谈.md",
-    "attachments/Pasted image 20260113104920.png",
     "attachments",
     "images",
     "新建文件夹",
