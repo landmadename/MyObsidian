@@ -11,20 +11,14 @@
             "id": "e512a56fd8da2c14",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "工作规划.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "AI相关.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "工作规划"
+              "icon": "lucide-file",
+              "title": "AI相关"
             }
           }
         ]
@@ -216,10 +210,10 @@
   },
   "active": "e512a56fd8da2c14",
   "lastOpenFiles": [
+    "工作规划.md",
     "电力漫谈.md",
     "AI相关.md",
     "Gemini 要求.md",
-    "工作规划.md",
     "attachments/img_v3_02u5_1b1ff445-c500-4d37-9f6d-0a6f700adb3g.jpg",
     "attachments/Pasted image 20260113104920.png",
     "attachments/Pasted image 20260113104851.png",
