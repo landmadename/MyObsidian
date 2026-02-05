@@ -33,12 +33,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "-.md",
+                "file": "电力交易流程.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "-"
+              "title": "电力交易流程"
             }
           }
         ],
@@ -232,7 +232,7 @@
   "active": "2be8f143722f675d",
   "lastOpenFiles": [
     "工作规划.md",
-    "-.md",
+    "电力交易流程.md",
     "attachments/Pasted image 20260129085049.png",
     "未命名.base",
     "AI相关.md",
