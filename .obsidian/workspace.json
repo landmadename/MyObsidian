@@ -46,9 +46,29 @@
               "icon": "lucide-trello",
               "title": "工作规划"
             }
+          },
+          {
+            "id": "8363263944c41cb0",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "工作规划.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "工作规划"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -235,8 +255,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2be8f143722f675d",
+  "active": "8363263944c41cb0",
   "lastOpenFiles": [
+    "attachments/Pasted image 20260208142319.png",
     "attachments/Pasted image 20260206165606.png",
     "attachments/Pasted image 20260206165355.png",
     "attachments/Pasted image 20260206150544.png",
@@ -253,7 +274,6 @@
     "attachments/img_v3_02u5_1b1ff445-c500-4d37-9f6d-0a6f700adb3g.jpg",
     "attachments/Pasted image 20260113104920.png",
     "attachments/Pasted image 20260113104851.png",
-    "attachments/Pasted image 20260113104820.png",
     "assets/AI相关",
     "assets",
     "--暂存箱/--暂存箱.md",
