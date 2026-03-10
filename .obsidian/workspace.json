@@ -39,6 +39,10 @@
                   "list-collapse": [
                     false,
                     false,
+                    null,
+                    false,
+                    false,
+                    false,
                     false
                   ]
                 }
