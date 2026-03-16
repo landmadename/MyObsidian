@@ -31,24 +31,14 @@
             "id": "2be8f143722f675d",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "工作规划.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    null,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "中核汇能.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "工作规划"
+              "icon": "lucide-file",
+              "title": "中核汇能"
             }
           },
           {
@@ -137,7 +127,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "0f2cc16527a8b6ad",
@@ -269,9 +260,11 @@
   },
   "active": "2be8f143722f675d",
   "lastOpenFiles": [
+    "电力交易流程.md",
+    "电力漫谈.md",
+    "工作规划.md",
     "中核汇能.md",
     "未命名.base",
-    "工作规划.md",
     "attachments/Pasted image 20260228170815.png",
     "attachments/Pasted image 20260228170802.png",
     "attachments/img_v3_02up_2e5ff8fc-e220-426b-a379-fcbf017016bg.jpg",
@@ -282,9 +275,7 @@
     "attachments/Pasted image 20260206165355.png",
     "attachments/Pasted image 20260206150544.png",
     "attachments/Pasted image 20260206145533.png",
-    "电力交易流程.md",
     "AI相关.md",
-    "电力漫谈.md",
     "Gemini 要求.md",
     "assets/AI相关",
     "assets",
