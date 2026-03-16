@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e512a56fd8da2c14",
+            "id": "2be8f143722f675d",
             "type": "leaf",
             "state": {
               "type": "kanban",
@@ -19,26 +19,16 @@
                   "list-collapse": [
                     false,
                     false,
+                    null,
+                    false,
+                    false,
+                    false,
                     false
                   ]
                 }
               },
               "icon": "lucide-trello",
               "title": "工作规划"
-            }
-          },
-          {
-            "id": "2be8f143722f675d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "中核汇能.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "中核汇能"
             }
           },
           {
@@ -69,8 +59,7 @@
               "title": "工作规划"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -127,8 +116,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "0f2cc16527a8b6ad",
@@ -260,10 +248,15 @@
   },
   "active": "2be8f143722f675d",
   "lastOpenFiles": [
-    "电力交易流程.md",
-    "电力漫谈.md",
+    "产品规划/20251215-DSTE-产品路径规划.md",
     "工作规划.md",
     "中核汇能.md",
+    "产品规划/attachments/Pasted image 20260316150942.png",
+    "产品规划/attachments/Pasted image 20260316150931.png",
+    "产品规划/attachments",
+    "产品规划",
+    "电力交易流程.md",
+    "电力漫谈.md",
     "未命名.base",
     "attachments/Pasted image 20260228170815.png",
     "attachments/Pasted image 20260228170802.png",
@@ -273,8 +266,6 @@
     "attachments/Pasted image 20260208142319.png",
     "attachments/Pasted image 20260206165606.png",
     "attachments/Pasted image 20260206165355.png",
-    "attachments/Pasted image 20260206150544.png",
-    "attachments/Pasted image 20260206145533.png",
     "AI相关.md",
     "Gemini 要求.md",
     "assets/AI相关",
@@ -301,9 +292,7 @@
     "AI相关-mindmap.md",
     "attachments",
     "images",
-    "新建文件夹",
     "未命名看板 1.md",
-    "投资s.md",
-    "2026-01-12.md"
+    "投资s.md"
   ]
 }
