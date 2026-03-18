@@ -11,24 +11,14 @@
             "id": "2be8f143722f675d",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "工作规划.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    null,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "中核汇能.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "工作规划"
+              "icon": "lucide-file",
+              "title": "中核汇能"
             }
           },
           {
@@ -248,9 +238,9 @@
   },
   "active": "2be8f143722f675d",
   "lastOpenFiles": [
+    "工作规划.md",
     "电力漫谈.md",
     "中核汇能.md",
-    "工作规划.md",
     "产品规划/20251215-DSTE-产品路径规划.md",
     "产品规划/attachments/Pasted image 20260316150942.png",
     "产品规划/attachments/Pasted image 20260316150931.png",
