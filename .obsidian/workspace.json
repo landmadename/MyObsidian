@@ -4,48 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "721c60087a3a9a3f",
+        "id": "5464c96ded568673",
         "type": "tabs",
         "children": [
           {
-            "id": "2be8f143722f675d",
+            "id": "73748d2def9107d3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "中核汇能.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "中核汇能"
-            }
-          },
-          {
-            "id": "4142c99898774507",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "中核汇能.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "中核汇能"
-            }
-          },
-          {
-            "id": "8363263944c41cb0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
                 "file": "工作规划.md",
-                "mode": "source",
-                "source": false
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    null,
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
               },
-              "icon": "lucide-file",
+              "icon": "lucide-trello",
               "title": "工作规划"
             }
           }
@@ -236,11 +218,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2be8f143722f675d",
+  "active": "73748d2def9107d3",
   "lastOpenFiles": [
+    "attachments/Pasted image 20260319111138.png",
+    "attachments/Pasted image 20260319111136.png",
+    "中核汇能.md",
     "工作规划.md",
     "电力漫谈.md",
-    "中核汇能.md",
     "产品规划/20251215-DSTE-产品路径规划.md",
     "产品规划/attachments/Pasted image 20260316150942.png",
     "产品规划/attachments/Pasted image 20260316150931.png",
@@ -255,7 +239,6 @@
     "attachments/img_v3_02ut_a6efbcf5-8ae6-4d4f-8f74-8dfaff2b321g.jpg",
     "attachments/Pasted image 20260208142319.png",
     "attachments/Pasted image 20260206165606.png",
-    "attachments/Pasted image 20260206165355.png",
     "AI相关.md",
     "Gemini 要求.md",
     "assets/AI相关",
