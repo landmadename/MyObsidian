@@ -11,24 +11,14 @@
             "id": "73748d2def9107d3",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "工作规划.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    null,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "中核汇能.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "工作规划"
+              "icon": "lucide-file",
+              "title": "中核汇能"
             }
           }
         ]
@@ -220,8 +210,8 @@
   },
   "active": "73748d2def9107d3",
   "lastOpenFiles": [
-    "中核汇能.md",
     "工作规划.md",
+    "中核汇能.md",
     "attachments/Pasted image 20260320094512.png",
     "attachments/Pasted image 20260320085323.png",
     "attachments/Pasted image 20260320085003.png",
