@@ -35,12 +35,14 @@
             "id": "14b30b356baa8f23",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.12.7"
+                "file": "电力交易流程.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "版本说明 1.12.7"
+              "icon": "lucide-file",
+              "title": "电力交易流程"
             }
           }
         ],
